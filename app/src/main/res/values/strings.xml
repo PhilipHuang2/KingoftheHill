@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">King of the Hill</string>
+    <string name="title_activity_legend">LegendActivity</string>
 </resources>
